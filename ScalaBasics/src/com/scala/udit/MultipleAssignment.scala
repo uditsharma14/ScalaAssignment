@@ -1,7 +1,8 @@
-package com.classes
+package com.scala.udit
 
 object MultipleAssignment {
    def main(args: Array[String]) {
+     
      /* declaration and assignment 
       * of multiple variables or val Type */
       val(id: Int, name: String) = Pair(100, "Udit");

@@ -1,7 +1,9 @@
-package com.classes
+package com.scala.udit
 
 object Variable {
   def main(args: Array[String]) {
+    
+      
       var myVar :Int = 10;
       val myVal :String = "Hello Scala with datatype declaration.";
       var myVar1 = 20;
