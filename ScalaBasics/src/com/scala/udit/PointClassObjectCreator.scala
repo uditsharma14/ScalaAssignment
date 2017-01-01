@@ -1,6 +1,6 @@
 package com.scala.udit
 
-object ClassObject {
+object PointClassObjectCreator {
   def main(args: Array[String]) {
     /*Creating a object of point class*/
     val pt = new Point(10, 20);
