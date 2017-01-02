@@ -1,0 +1,15 @@
+package com.scala.udit
+
+class TemperaroryEmployee(val Id: Int, val name: String,
+                      val wagePerDay: Float) {
+  var empId: Int = Id
+  var empName: String = name
+  var empSalary: Float = wagePerDay
+
+  def showDetails(empId: Int, empName: String, salary: Float) {
+    print("Employee Id :" + empId);
+    print("Employee Name :" + empName);
+    print("Employee Salary :" + salary);
+  }
+
+}

@@ -1,0 +1,14 @@
+package com.scala.udit
+
+class Employee(val Id: Int,val name: String) {
+   var x: Int = Id
+   var y: Int = name
+   
+   def move(dx: Int, dy: Int) {
+      x = x + dx
+      y = y + dy
+      println ("Point x location : " + x);
+      println ("Point y location : " + y);
+   }
+  
+}

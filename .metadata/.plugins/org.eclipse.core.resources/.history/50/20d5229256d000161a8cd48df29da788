@@ -1,0 +1,15 @@
+package com.scala.udit
+
+class RegularEmployee(val Id: Int, val name: String,
+                      val salary: Float) {
+  var empId: Int = Id
+  var empName: String = name
+  var empSalary: Float = salary
+
+  def showDetails{
+    print("Employee Id :" + empId);
+    print("Employee Name :" + empName);
+    print("Employee Salary :" + salary);
+  }
+
+}

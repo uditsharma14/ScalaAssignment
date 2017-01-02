@@ -1,0 +1,12 @@
+package com.scala.udit
+
+object EmployeeObject {
+  def main(args: Array[String]) {
+    
+      val employee = new Employee(101,"udit");
+      
+      /* show employee details **/
+      employee.showDetails;
+      
+   }
+}

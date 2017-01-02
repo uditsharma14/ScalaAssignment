@@ -1,0 +1,10 @@
+package com.scala.udit
+
+object EmployeeObject {
+  def main(args: Array[String]) {
+      val employee = new Employee(101,"udit");
+
+      // Move to a new location
+      loc.move(10, 10, 5);
+   }
+}

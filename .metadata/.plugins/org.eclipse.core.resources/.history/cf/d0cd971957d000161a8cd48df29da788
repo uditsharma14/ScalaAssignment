@@ -1,0 +1,15 @@
+package com.scala.udit
+
+class TemperaroryEmployee(val Id: Int, val name: String,
+                      val wagePerDay: Float)extends Point(xc, yc)  {
+  var empId: Int = Id
+  var empName: String = name
+  var perDayWage: Float = wagePerDay
+
+  def showDetails() {
+    println("Employee Id :" + empId);
+    println("Employee Name :" + empName);
+    println("Employee per Day Wages :" + perDayWage);
+  }
+
+}

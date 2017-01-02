@@ -1,0 +1,8 @@
+package com.classes
+
+object HelloWorld {
+ def main(args: Array[String]): Unit = {
+    println("");
+    
+  }
+}

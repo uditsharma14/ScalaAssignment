@@ -1,0 +1,16 @@
+package com.scala.udit
+
+class RegularEmployee(override val Id: Int,override val name: String,
+                      val salary: Float) extends Employee(Id, name) {
+{
+  var empId: Int = Id
+  var empName: String = name
+  var empSalary: Float = salary
+
+  def showDetails(){
+    print("Employee Id :" + empId);
+    print("Employee Name :" + empName);
+    print("Employee Salary :" + salary);
+  }
+
+}

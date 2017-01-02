@@ -1,0 +1,9 @@
+package com.classes
+
+object MultipleAssignment {
+   def main(args: Array[String]) {
+      val (id: Int, Name: String,myVal1 : String) = Pair(100, "Udit")
+      
+      println(myVar1); println(myVar2); 
+   }
+}

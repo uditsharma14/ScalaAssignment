@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+/home/udit-pc/scala/.metadata/.plugins/org.eclipse.jdt.core
+1962144599.index
+82636715.index
