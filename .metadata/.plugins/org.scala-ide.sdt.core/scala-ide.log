@@ -1173,3 +1173,80 @@ Java Model Exception: Java Model Status [Project does not exist]
 2017-01-02 22:50:23,444  WARN [Worker-71] - ScalaProject - Project ScalaBasics runs on platform default installation.
 2017-01-02 22:50:47,910  WARN [Worker-69] - ScalaProject - Project ScalaBasics has platform default sourceLevel.
 2017-01-02 22:50:47,910  WARN [Worker-69] - ScalaProject - Project ScalaBasics runs on platform default installation.
+2017-01-04 00:52:52,637  WARN [main] - ScalaProject - Project ScalaBasics has platform default sourceLevel.
+2017-01-04 00:52:52,639  WARN [main] - ScalaProject - Project ScalaBasics runs on platform default installation.
+2017-01-04 00:52:52,647  WARN [main] - ScalaProject - Project ScalaBasics has platform default sourceLevel.
+2017-01-04 00:52:52,647  WARN [main] - ScalaProject - Project ScalaBasics runs on platform default installation.
+2017-01-04 00:53:04,850  WARN [Worker-5] - ScalaProject - Project ScalaInherentence has platform default sourceLevel.
+2017-01-04 00:53:04,856  WARN [Worker-5] - ScalaProject - Project ScalaInherentence runs on platform default installation.
+2017-01-04 00:53:05,645 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-01-04 00:53:05,645 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-01-04 00:53:33,904  WARN [ModalContext] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:53:33,904  WARN [ModalContext] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:53:34,781  WARN [Worker-3] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:53:34,797  WARN [Worker-3] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:57:19,598  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:57:19,598  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:08,359  WARN [main] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:08,360  WARN [main] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:10,997  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:10,997  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:11,430  WARN [Java indexing] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:11,433  WARN [Java indexing] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:15,641  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:15,641  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:24,815  WARN [Worker-9] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:24,815  WARN [Worker-9] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:58:26,329 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-04 00:58:50,167  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:58:50,168  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:59:23,214  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:59:23,215  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:59:38,790  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:59:38,790  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 00:59:45,570  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 00:59:45,570  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:00:32,607  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:00:32,608  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:01:00,562  WARN [Worker-10] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:01:00,562  WARN [Worker-10] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:01:21,852  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:01:21,853  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:01:38,791  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:01:38,792  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:02:08,397  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:02:08,397  WARN [Worker-6] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:02:53,227  WARN [Worker-10] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:02:53,228  WARN [Worker-10] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:03:18,189  WARN [Worker-9] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:03:18,190  WARN [Worker-9] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:04:01,247  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:04:01,247  WARN [Worker-8] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:04:12,638  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:04:12,638  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:05:24,890  WARN [main] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:05:24,890  WARN [main] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:05:25,174  WARN [Worker-7] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:05:25,174  WARN [Worker-7] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:06:44,530  WARN [Worker-7] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:06:44,530  WARN [Worker-7] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:07:49,122  WARN [main] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:07:49,122  WARN [main] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:07:49,328  WARN [Worker-12] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:07:49,329  WARN [Worker-12] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:12:13,025  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:12:13,026  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:12:25,484  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:12:25,484  WARN [Worker-4] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:12:40,018  WARN [Worker-15] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:12:40,018  WARN [Worker-15] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:13:17,088  WARN [Worker-16] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:13:17,088  WARN [Worker-16] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:13:25,413  WARN [Worker-17] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:13:25,416  WARN [Worker-17] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:13:53,670  WARN [Worker-18] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:13:53,670  WARN [Worker-18] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:14:10,977  WARN [Worker-18] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:14:10,978  WARN [Worker-18] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:14:20,115  WARN [Worker-13] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-04 01:14:20,115  WARN [Worker-13] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.

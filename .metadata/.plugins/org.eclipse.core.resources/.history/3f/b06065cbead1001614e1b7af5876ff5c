@@ -1,0 +1,5 @@
+package com.scala.accessmodifier
+
+object Private {
+  
+}

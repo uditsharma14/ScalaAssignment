@@ -1,0 +1,20 @@
+package com.scala.accessmodifier
+
+object privateVar{
+  class Outer {
+   private def fouter() { println("f") }
+   class Inner {
+      private def f() { println("f") }
+      
+      class InnerMost {
+         f() // OK
+      }
+   }
+   (new Inner).f() // Error: f is not accessible
+}
+ def show(){
+   (new Outer).fouter()
+ }
+}
+
+
