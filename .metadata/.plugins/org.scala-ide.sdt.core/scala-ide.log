@@ -1310,3 +1310,17 @@ Java Model Exception: Java Model Status [Project does not exist]
 2017-01-04 01:34:57,502  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
 2017-01-04 01:35:00,612  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
 2017-01-04 01:35:00,612  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:58:01,371  WARN [ModalContext] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:01,371  WARN [ModalContext] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:01,987  WARN [Worker-35] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:01,987  WARN [Worker-35] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:19,337  WARN [Worker-35] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:19,338  WARN [Worker-35] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:26,868  WARN [main] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:26,868  WARN [main] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:30,738  WARN [main] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:30,739  WARN [main] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:30,887  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:30,887  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 01:58:51,424  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-04 01:58:51,425  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
