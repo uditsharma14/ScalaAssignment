@@ -1,0 +1,14 @@
+package com.scala.condition
+
+object IfElseIf {
+  def main(args: Array[String]){
+    if(){
+      
+    }else if(){
+      
+    }
+    else{
+      
+    }
+  }
+}

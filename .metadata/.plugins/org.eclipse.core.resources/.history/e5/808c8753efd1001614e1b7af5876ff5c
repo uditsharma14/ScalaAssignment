@@ -1,0 +1,11 @@
+package com.scala.condition
+
+object IfOject {
+  def main(args: Array[String]) {
+    var abc = 10;
+
+    if (abc < 20) {
+      println("This is if statement");
+    }
+  }
+}

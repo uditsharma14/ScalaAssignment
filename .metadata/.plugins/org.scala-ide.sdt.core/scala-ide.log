@@ -1250,3 +1250,63 @@ Java Model Exception: Java Model Status [Project does not exist]
 2017-01-04 01:14:10,978  WARN [Worker-18] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
 2017-01-04 01:14:20,115  WARN [Worker-13] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
 2017-01-04 01:14:20,115  WARN [Worker-13] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-04 01:24:32,548  WARN [ModalContext] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:24:32,549  WARN [ModalContext] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:24:33,168  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:24:33,168  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:24:55,616  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:24:55,616  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:25:19,883  WARN [main] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:25:19,884  WARN [main] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:25:28,661  WARN [main] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:25:28,662  WARN [main] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:25:28,834  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:25:28,834  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:25:42,293  WARN [Worker-21] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:25:42,293  WARN [Worker-21] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:25:59,517  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:25:59,517  WARN [Worker-22] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:26:19,865  WARN [Worker-4] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:26:19,865  WARN [Worker-4] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:26:23,931  WARN [Worker-23] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:26:23,932  WARN [Worker-23] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:26:30,156  WARN [Worker-23] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:26:30,156  WARN [Worker-23] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:29:34,326  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:29:34,326  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:30:51,485  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:30:51,485  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:04,589  WARN [main] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:04,589  WARN [main] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:04,809  WARN [Worker-25] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:04,809  WARN [Worker-25] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:10,966  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:10,967  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:14,016  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:14,017  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:36,195  WARN [main] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:36,195  WARN [main] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:36,487  WARN [Worker-25] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:36,488  WARN [Worker-25] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:31:52,328  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:31:52,328  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:33:24,726  WARN [main] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:33:24,727  WARN [main] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:33:24,944  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:33:24,944  WARN [Worker-20] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:33:33,644  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:33:33,644  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:33:52,066  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:33:52,066  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:34:12,582  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:34:12,582  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:34:18,048  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:34:18,048  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:34:40,805  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:34:40,805  WARN [Worker-27] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:34:54,939  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:34:54,939  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:34:57,502  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:34:57,502  WARN [Worker-26] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-04 01:35:00,612  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-04 01:35:00,612  WARN [Worker-28] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.

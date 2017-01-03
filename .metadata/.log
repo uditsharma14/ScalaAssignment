@@ -800,3 +800,155 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2017-01-04 01:29:55.676
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while moving resources.
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1543)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Contains: Error updating cache during move/delete.
+The resource cannot be moved, renamed or deleted due to an internal error.
+java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1012)
+	at org.eclipse.jgit.internal.storage.file.LockFile.lock(LockFile.java:171)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:611)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:249)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:327)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:293)
+	at org.eclipse.jgit.lib.Repository.lockDirCache(Repository.java:1182)
+	at org.eclipse.egit.core.GitMoveDeleteHook.moveFile(GitMoveDeleteHook.java:181)
+	at org.eclipse.team.internal.core.MoveDeleteManager.moveFile(MoveDeleteManager.java:87)
+	at org.eclipse.core.internal.resources.Resource.unprotectedMove(Resource.java:1858)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1531)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SUBENTRY 1 org.eclipse.core.resources 4 4 2017-01-04 01:29:55.682
+!MESSAGE Problems encountered while moving resources.
+!SUBENTRY 2 org.eclipse.egit.core 4 0 2017-01-04 01:29:55.682
+!MESSAGE Error updating cache during move/delete.
+The resource cannot be moved, renamed or deleted due to an internal error.
+!STACK 0
+java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1012)
+	at org.eclipse.jgit.internal.storage.file.LockFile.lock(LockFile.java:171)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:611)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:249)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:327)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:293)
+	at org.eclipse.jgit.lib.Repository.lockDirCache(Repository.java:1182)
+	at org.eclipse.egit.core.GitMoveDeleteHook.moveFile(GitMoveDeleteHook.java:181)
+	at org.eclipse.team.internal.core.MoveDeleteManager.moveFile(MoveDeleteManager.java:87)
+	at org.eclipse.core.internal.resources.Resource.unprotectedMove(Resource.java:1858)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1531)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2017-01-04 01:30:27.955
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while moving resources.
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1543)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Contains: Error updating cache during move/delete.
+The resource cannot be moved, renamed or deleted due to an internal error.
+java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1012)
+	at org.eclipse.jgit.internal.storage.file.LockFile.lock(LockFile.java:171)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:611)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:249)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:327)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:293)
+	at org.eclipse.jgit.lib.Repository.lockDirCache(Repository.java:1182)
+	at org.eclipse.egit.core.GitMoveDeleteHook.moveFile(GitMoveDeleteHook.java:181)
+	at org.eclipse.team.internal.core.MoveDeleteManager.moveFile(MoveDeleteManager.java:87)
+	at org.eclipse.core.internal.resources.Resource.unprotectedMove(Resource.java:1858)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1531)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SUBENTRY 1 org.eclipse.core.resources 4 4 2017-01-04 01:30:27.959
+!MESSAGE Problems encountered while moving resources.
+!SUBENTRY 2 org.eclipse.egit.core 4 0 2017-01-04 01:30:27.959
+!MESSAGE Error updating cache during move/delete.
+The resource cannot be moved, renamed or deleted due to an internal error.
+!STACK 0
+java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1012)
+	at org.eclipse.jgit.internal.storage.file.LockFile.lock(LockFile.java:171)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:611)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:249)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:327)
+	at org.eclipse.jgit.dircache.DirCache.lock(DirCache.java:293)
+	at org.eclipse.jgit.lib.Repository.lockDirCache(Repository.java:1182)
+	at org.eclipse.egit.core.GitMoveDeleteHook.moveFile(GitMoveDeleteHook.java:181)
+	at org.eclipse.team.internal.core.MoveDeleteManager.moveFile(MoveDeleteManager.java:87)
+	at org.eclipse.core.internal.resources.Resource.unprotectedMove(Resource.java:1858)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1531)
+	at org.eclipse.ltk.core.refactoring.resource.RenameResourceChange.perform(RenameResourceChange.java:115)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:280)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:257)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
