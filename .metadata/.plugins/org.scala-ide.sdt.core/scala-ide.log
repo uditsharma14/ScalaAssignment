@@ -1324,3 +1324,49 @@ Java Model Exception: Java Model Status [Project does not exist]
 2017-01-04 01:58:30,887  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
 2017-01-04 01:58:51,424  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
 2017-01-04 01:58:51,425  WARN [Worker-36] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-04 23:52:42,771  WARN [ModalContext] - ScalaProject - Project Functions has platform default sourceLevel.
+2017-01-04 23:52:42,771  WARN [ModalContext] - ScalaProject - Project Functions runs on platform default installation.
+2017-01-04 23:52:43,123  WARN [Worker-45] - ScalaProject - Project Functions has platform default sourceLevel.
+2017-01-04 23:52:43,123  WARN [Worker-45] - ScalaProject - Project Functions runs on platform default installation.
+2017-01-05 00:13:35,881  WARN [Worker-50] - ScalaProject - Project Functions has platform default sourceLevel.
+2017-01-05 00:13:35,881  WARN [Worker-50] - ScalaProject - Project Functions runs on platform default installation.
+2017-01-05 00:13:52,701  WARN [ModalContext] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:13:52,701  WARN [ModalContext] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:13:53,209  WARN [Worker-47] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:13:53,209  WARN [Worker-47] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:22,333  WARN [Worker-41] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:22,333  WARN [Worker-41] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:36,603  WARN [main] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:36,603  WARN [main] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:37,676  WARN [main] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:37,676  WARN [main] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:37,835  WARN [Worker-51] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:37,835  WARN [Worker-51] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:47,931  WARN [Worker-47] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:47,931  WARN [Worker-47] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:14:50,294  WARN [Worker-50] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:14:50,294  WARN [Worker-50] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:15:00,407  WARN [Worker-52] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:15:00,407  WARN [Worker-52] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:15:25,799  WARN [Worker-53] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:15:25,800  WARN [Worker-53] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:18:11,948  WARN [Worker-51] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:18:11,948  WARN [Worker-51] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:18:13,495  WARN [Worker-41] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-05 00:18:13,495  WARN [Worker-41] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-05 00:40:39,351  WARN [ModalContext] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:40:39,351  WARN [ModalContext] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:40:39,794  WARN [Worker-56] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:40:39,794  WARN [Worker-56] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:40:57,897  WARN [Worker-56] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:40:57,897  WARN [Worker-56] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:41:11,511  WARN [main] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:41:11,511  WARN [main] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:41:16,485  WARN [main] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:41:16,485  WARN [main] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:41:16,637  WARN [Worker-58] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:41:16,637  WARN [Worker-58] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:41:28,936  WARN [Worker-41] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:41:28,936  WARN [Worker-41] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 00:41:41,864  WARN [Worker-58] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-05 00:41:41,864  WARN [Worker-58] - ScalaProject - Project ScalaClosure runs on platform default installation.
