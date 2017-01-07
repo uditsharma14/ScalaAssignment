@@ -1370,3 +1370,95 @@ Java Model Exception: Java Model Status [Project does not exist]
 2017-01-05 00:41:28,936  WARN [Worker-41] - ScalaProject - Project ScalaClosure runs on platform default installation.
 2017-01-05 00:41:41,864  WARN [Worker-58] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
 2017-01-05 00:41:41,864  WARN [Worker-58] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-05 02:01:30,126  WARN [ModalContext] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:01:30,127  WARN [ModalContext] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:01:30,573  WARN [Worker-64] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:01:30,573  WARN [Worker-64] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:01:54,128  WARN [Worker-64] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:01:54,129  WARN [Worker-64] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:02:01,453  WARN [main] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:02:01,454  WARN [main] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:02:07,029  WARN [main] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:02:07,030  WARN [main] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:02:07,157  WARN [Worker-63] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:02:07,157  WARN [Worker-63] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 02:02:21,720  WARN [Worker-63] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 02:02:21,720  WARN [Worker-63] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:03,781  WARN [main] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:03,781  WARN [main] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:04,020  WARN [Worker-72] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:04,020  WARN [Worker-72] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:12,917  WARN [Worker-68] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:12,918  WARN [Worker-68] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:41,129  WARN [Worker-73] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:41,129  WARN [Worker-73] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:51,060  WARN [Worker-72] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:51,060  WARN [Worker-72] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:45:53,687  WARN [Worker-68] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:45:53,687  WARN [Worker-68] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:46:02,776  WARN [Worker-74] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:46:02,776  WARN [Worker-74] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 22:46:25,435  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 543
+2017-01-05 22:46:25,442  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 543
+2017-01-05 22:46:31,838  WARN [Worker-68] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-05 22:46:31,839  WARN [Worker-68] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-05 23:15:46,798  WARN [ModalContext] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:15:46,798  WARN [ModalContext] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:15:47,671  WARN [Worker-76] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:15:47,671  WARN [Worker-76] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:03,760  WARN [Worker-77] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:03,760  WARN [Worker-77] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:08,947  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:08,948  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:28,834  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:28,834  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:28,972  WARN [Worker-77] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:28,972  WARN [Worker-77] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:38,383  WARN [Worker-75] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:38,383  WARN [Worker-75] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-05 23:16:41,835  WARN [Worker-75] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-05 23:16:41,835  WARN [Worker-75] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-07 16:05:34,194  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-07 16:05:34,240  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-07 16:05:34,284  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-07 16:05:34,284  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-07 16:05:40,503  WARN [main] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-07 16:05:40,503  WARN [main] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-07 16:05:58,077  WARN [Worker-6] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-07 16:05:58,079  WARN [Worker-6] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-07 16:05:58,080  WARN [Worker-6] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-07 16:05:58,080  WARN [Worker-6] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-07 16:05:58,082  WARN [Worker-6] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-07 16:05:58,082  WARN [Worker-6] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-07 16:05:58,083  WARN [Worker-6] - ScalaProject - Project ScalaBasics has platform default sourceLevel.
+2017-01-07 16:05:58,083  WARN [Worker-6] - ScalaProject - Project ScalaBasics runs on platform default installation.
+2017-01-07 16:05:58,095  WARN [Worker-6] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-07 16:05:58,096  WARN [Worker-6] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-07 16:05:58,097  WARN [Worker-6] - ScalaProject - Project ScalaInherentence has platform default sourceLevel.
+2017-01-07 16:05:58,098  WARN [Worker-6] - ScalaProject - Project ScalaInherentence runs on platform default installation.
+2017-01-07 16:05:58,099  WARN [Worker-6] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-07 16:05:58,099  WARN [Worker-6] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-07 16:06:00,076 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-01-07 16:06:00,076 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-01-08 00:55:13,763  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-08 00:55:13,809  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-08 00:55:13,818  WARN [main] - ScalaProject - Project ScalaArrays has platform default sourceLevel.
+2017-01-08 00:55:13,819  WARN [main] - ScalaProject - Project ScalaArrays runs on platform default installation.
+2017-01-08 00:55:18,026  WARN [main] - ScalaProject - Project ScalaAccessModifier has platform default sourceLevel.
+2017-01-08 00:55:18,027  WARN [main] - ScalaProject - Project ScalaAccessModifier runs on platform default installation.
+2017-01-08 00:55:24,520  WARN [Worker-2] - ScalaProject - Project ScalaString has platform default sourceLevel.
+2017-01-08 00:55:24,521  WARN [Worker-2] - ScalaProject - Project ScalaString runs on platform default installation.
+2017-01-08 00:55:24,522  WARN [Worker-2] - ScalaProject - Project ScalaClosure has platform default sourceLevel.
+2017-01-08 00:55:24,522  WARN [Worker-2] - ScalaProject - Project ScalaClosure runs on platform default installation.
+2017-01-08 00:55:24,523  WARN [Worker-2] - ScalaProject - Project ScalaConditionalOperators has platform default sourceLevel.
+2017-01-08 00:55:24,523  WARN [Worker-2] - ScalaProject - Project ScalaConditionalOperators runs on platform default installation.
+2017-01-08 00:55:24,524  WARN [Worker-2] - ScalaProject - Project ScalaBasics has platform default sourceLevel.
+2017-01-08 00:55:24,524  WARN [Worker-2] - ScalaProject - Project ScalaBasics runs on platform default installation.
+2017-01-08 00:55:24,527  WARN [Worker-2] - ScalaProject - Project ScalaFunctions has platform default sourceLevel.
+2017-01-08 00:55:24,528  WARN [Worker-2] - ScalaProject - Project ScalaFunctions runs on platform default installation.
+2017-01-08 00:55:24,528  WARN [Worker-2] - ScalaProject - Project ScalaInherentence has platform default sourceLevel.
+2017-01-08 00:55:24,528  WARN [Worker-2] - ScalaProject - Project ScalaInherentence runs on platform default installation.
+2017-01-08 00:55:24,529  WARN [Worker-2] - ScalaProject - Project ScalaLoopingExamples has platform default sourceLevel.
+2017-01-08 00:55:24,529  WARN [Worker-2] - ScalaProject - Project ScalaLoopingExamples runs on platform default installation.
+2017-01-08 00:55:25,631 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-01-08 00:55:25,632 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
